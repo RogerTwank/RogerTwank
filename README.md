@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RogerTwank
 - 👀 I’m interested in finding long lost Apollo artifacts
-- 😉Can you guess where I got my name?
+- 😉 Can you guess where I got my name?
+- 📖 Check out my blog...https://snoopy.rogertwank.net/
 - 📫 How to reach me ...rogertwank at outlook dot com
 
 <!---
